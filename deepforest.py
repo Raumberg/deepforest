@@ -3,7 +3,6 @@ import jax.numpy as jnp
 import optax
 from flax import nnx
 from flax import linen as nn
-from flax.core import FrozenDict
 
 from utils import xentropy
 
